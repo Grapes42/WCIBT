@@ -59,5 +59,7 @@ int main()
     
     cout << dishes[rand() % count-1 + 0] << endl;
     
+    cin >> int waiter;
+    
     return 0;
 }
